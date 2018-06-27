@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+/*
+ * Public API Surface of simple-table
+ */
+export { SimpleTableService } from './lib/simple-table.service';
+export { SimpleTableComponent } from './lib/components/simple-table.component';
+export { SimpleTableModule } from './lib/simple-table.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3NpbXBsZS10YWJsZS8iLCJzb3VyY2VzIjpbInB1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUlBLE9BQU8sRUFBRSxrQkFBa0IsRUFBRSxNQUFNLDRCQUE0QixDQUFDO0FBQ2hFLE9BQU8sRUFBRSxvQkFBb0IsRUFBRSxNQUFNLHlDQUF5QyxDQUFDO0FBQy9FLE9BQU8sRUFBRSxpQkFBaUIsRUFBRSxNQUFNLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBzaW1wbGUtdGFibGVcbiAqL1xuXG5leHBvcnQgeyBTaW1wbGVUYWJsZVNlcnZpY2UgfSBmcm9tICcuL2xpYi9zaW1wbGUtdGFibGUuc2VydmljZSc7XG5leHBvcnQgeyBTaW1wbGVUYWJsZUNvbXBvbmVudCB9IGZyb20gJy4vbGliL2NvbXBvbmVudHMvc2ltcGxlLXRhYmxlLmNvbXBvbmVudCc7XG5leHBvcnQgeyBTaW1wbGVUYWJsZU1vZHVsZSB9IGZyb20gJy4vbGliL3NpbXBsZS10YWJsZS5tb2R1bGUnO1xuIl19
